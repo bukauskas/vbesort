@@ -67,11 +67,11 @@ const LietPage: React.FC<Components.PageProps> = () => {
       </Alert>
       <Alert variant="info">
         Čia pateikti oficialūs naujos programos pavyzdžiai (
-        <a href="https://www.nsa.smm.lt/wp-content/uploads/2024/09/Aukstesniojo-lygio-probleminio-klausimo-darbu-pavyzdziai-ir-vertinimas.pdf">
+        <a href="https://www.nsa.smsm.lt/old/wp-content/uploads/2024/09/Aukstesniojo-lygio-probleminio-klausimo-darbu-pavyzdziai-ir-vertinimas.pdf">
           Probleminio klausimo svarstymas
         </a>
         {", "}
-        <a href="https://www.nsa.smm.lt/wp-content/uploads/2024/09/GROZINIO-TEKSTO-INTERPRETAVIMAS.Auksteniojo-lygio-darbu-pavyzdziai-ir-ju-vertinimas.pdf">
+        <a href="https://www.nsa.smsm.lt/old/wp-content/uploads/2024/09/GROZINIO-TEKSTO-INTERPRETAVIMAS.Auksteniojo-lygio-darbu-pavyzdziai-ir-ju-vertinimas.pdf">
           Grožinio kūrinio interpretavimas
         </a>
         ) ir neoficialūs senų VBE rašinių pavyzdžiai, pasidalinti buvusių
