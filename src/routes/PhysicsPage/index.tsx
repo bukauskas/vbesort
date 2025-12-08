@@ -26,7 +26,7 @@ const PhysicsPage: React.FC<Components.PageProps> = (props) => {
       >
         <h1 className="vbesort-title">vbesort.lt</h1>
         <em style={{ position: "absolute", right: "30%", bottom: 0 }}>
-          by <a href="https://www.skafis.lt">Skafis</a>
+          by <a href="https://www.simtukas.lt">Šimtukas</a>
         </em>
       </div>{" "}
       <p className="vbesort-description">
@@ -39,7 +39,7 @@ const PhysicsPage: React.FC<Components.PageProps> = (props) => {
       </Alert>
       <Alert variant="info">
         VBE formulynas:{" "}
-        <a href="https://www.nsa.smm.lt/wp-content/uploads/2024/03/3-priedas.-Fizikos-formules-ir-konstantos.docx.pdf">
+        <a href="https://www.nsa.smsm.lt/old/wp-content/uploads/2024/03/3-priedas.-Fizikos-formules-ir-konstantos.docx.pdf">
           ČIA
         </a>
       </Alert>
