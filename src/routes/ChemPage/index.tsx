@@ -26,7 +26,7 @@ const ChemPage: React.FC<Components.PageProps> = () => {
       <Alert variant="warning">Kol kas čia tuščia...</Alert>
       <Alert variant="info">
         VBE lentelės:{" "}
-        <a href="https://www.nsa.smm.lt/wp-content/uploads/2024/05/VBE_uzduociu_apraso_STEAM_2-priedas_CHEMIJA_NSA-svetaine_2024-05-03.pdf">
+        <a href="https://www.nsa.smsm.lt/old/wp-content/uploads/2024/05/VBE_uzduociu_apraso_STEAM_2-priedas_CHEMIJA_NSA-svetaine_2024-05-03.pdf">
           ČIA
         </a>
       </Alert>
