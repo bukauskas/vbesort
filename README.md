@@ -6,6 +6,8 @@ Website is deployed here: [https://www.vbesort.lt](https://www.vbesort.lt)
 
 Screenshot content here: [Google drive](https://drive.google.com/drive/folders/1hVOXXNupm-cZZdraDrXthxK3PUeCeY7g?usp=sharing)
 
+Docker image: [ghcr.io/skafis-edtech/vbesort-i:latest]()
+
 The whole website is in Lithuanian (because it is made for Lithuania's students and teachers), all the exam problems are also in Lithuanian.
 
 Used by 2k active monthly users!
@@ -23,6 +25,17 @@ Used by 2k active monthly users!
 - [React Bootstrap Components](https://react-bootstrap.github.io/)
 - [React Bootstrap Icons](https://icons.getbootstrap.com/)
 - Firebase Hosting
+
+## Run container
+
+Have docker installed on you machine.
+
+```bash
+docker pull ghcr.io/skafis-edtech/vbesort-i:latest
+docker run -d --name vbesort-c -p 80:80 ghcr.io/skafis-edtech/vbesort-i:latest
+```
+
+Open on your browser http://localhost (internet connection not required).
 
 ## Setup for dev
 
